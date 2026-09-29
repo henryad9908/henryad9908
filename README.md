@@ -1,4 +1,4 @@
-# ¡Hola a todos! 👋 Soy Henry
+# Hola, Soy Henry 👋
 
 ### 📊 Sobre mí
 - 🔭 **Enfoque actual:** Business Intelligence, Análisis de Inventarios/Logística y Optimización de Procesos.
