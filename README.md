@@ -1,16 +1,24 @@
-## Hi there 👋
+# ¡Hola a todos! 👋 Soy Henry
 
-<!--
-**henryad9908/henryad9908** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📊 Sobre mí
+- 🔭 **Enfoque actual:** Business Intelligence, Análisis de Inventarios/Logística y Optimización de Procesos.
+- 🛠️ **Herramientas clave:** Power BI, Power Query, DAX, SQL, Excel Avanzado (Power Pivot y Modelado de Datos).
+- 🎯 **Objetivo:** Diseñar dashboards interactivos que transformen datos complejos en información clave para la toma de decisiones.
+- 🚀 **En constante aprendizaje:** SQL enfocado en BI, técnicas avanzadas de Data Analytics y DAX.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Stack Tecnológico
+
+| Dominio | Tecnologías y Herramientas |
+| :--- | :--- |
+| **Business Intelligence** | Power BI, Power Query, DAX |
+| **Análisis de Datos & BD** | SQL, Microsoft Excel (Power Pivot / Modelado) |
+
+---
+
+### 📌 Proyectos Destacados
+
+
+---
+
